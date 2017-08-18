@@ -1,0 +1,67 @@
+body {
+	background-image: url("../images/green_dust_scratch.png");
+}
+
+.game-name {
+	background-color: #DC7633;
+	color: white;
+	margin: 5px;
+	width: 200px;
+	height: 50px;
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+	line-height: 50px;
+}
+
+.instructions {
+	background-color: #F0B27A;
+	color: green;
+	font-weight: bold;
+	width: 450px;
+	padding: 10px;
+	margin: 5px;
+}
+
+.row-1 {
+	height: 85px;
+}
+
+#random-number {
+	margin: 0 0 0 5px;
+	background-color: #2ECC71;
+	height: 80px;
+	width: 200px;
+	float: left;
+}
+
+#score-box {
+	margin: 0 0 0 5px;
+	background-color: #00FFFF;
+	height: 80px;
+	width: 60px;
+	float: left;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+}
+
+.score-headline {
+	background-color: #45B39D;
+	color: white;
+	width: 150px;
+	height: 25px;
+	margin: 5px;
+	line-height: 25px;
+}
+
+#score {
+	background-color: #45B39D;
+	color: white;
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+}
+
